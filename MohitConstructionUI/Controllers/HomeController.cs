@@ -22,6 +22,7 @@ namespace MohitConstructionUI.Controllers
         {
 
             ViewBag.ActivePage="home";
+            int a = 1234;
             return View();
         }
 

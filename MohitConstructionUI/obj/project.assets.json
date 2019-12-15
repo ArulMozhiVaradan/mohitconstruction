@@ -658,11 +658,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\MohitComputers\\MohitConstructionUI\\MohitConstruction.csproj",
+      "projectUniqueName": "C:\\Projects\\MohitConstruction\\MohitConstructionUI\\MohitConstruction.csproj",
       "projectName": "MohitConstruction",
-      "projectPath": "C:\\Projects\\MohitComputers\\MohitConstructionUI\\MohitConstruction.csproj",
+      "projectPath": "C:\\Projects\\MohitConstruction\\MohitConstructionUI\\MohitConstruction.csproj",
       "packagesPath": "C:\\Users\\jarul\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\MohitComputers\\MohitConstructionUI\\obj\\",
+      "outputPath": "C:\\Projects\\MohitConstruction\\MohitConstructionUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jarul\\AppData\\Roaming\\NuGet\\NuGet.Config",
