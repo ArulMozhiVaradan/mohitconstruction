@@ -21,8 +21,7 @@ namespace MohitConstructionUI.Controllers
         public IActionResult Index()
         {
 
-            ViewBag.ActivePage="home";
-            int a = 1234;
+            ViewBag.ActivePage="home";            
             return View();
         }
 
