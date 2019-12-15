@@ -21,7 +21,8 @@ namespace MohitConstructionUI.Controllers
         public IActionResult Index()
         {
 
-            ViewBag.ActivePage="home";            
+            ViewBag.ActivePage="home";    
+            //git : Compuer A Changes
             return View();
         }
 
